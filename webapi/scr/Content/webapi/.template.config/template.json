@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Michael Rinkovski",
+  "classifications": [ "Webapi" ],
+  "identity": "rinkovski.webapi.03",
+  "name": "rinkovski.webapi.03",
+  "shortName": "webapirinko3",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "webapiApiService"
+}

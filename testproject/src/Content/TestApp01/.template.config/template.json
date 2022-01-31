@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Michael Rinkovski",
+  "classifications": [ "Console" ],
+  "identity": "rinkovski.console.demo.01",
+  "name": "rinkovski.console.01",
+  "shortName": "rinkovskicon",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "TestApp01"
+}

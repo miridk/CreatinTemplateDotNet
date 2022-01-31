@@ -1,0 +1,15 @@
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ConoleDemo.exe
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ConoleDemo.deps.json
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ConoleDemo.runtimeconfig.json
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ConoleDemo.dll
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ref\ConoleDemo.dll
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\bin\Debug\net6.0\ConoleDemo.pdb
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.csproj.AssemblyReference.cache
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.AssemblyInfoInputs.cache
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.AssemblyInfo.cs
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.csproj.CoreCompileInputs.cache
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.dll
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ref\ConoleDemo.dll
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.pdb
+C:\Udv\CreatinTemplateDotNet\testproject\src\Content\ConoleDemo\obj\Debug\net6.0\ConoleDemo.genruntimeconfig.cache
