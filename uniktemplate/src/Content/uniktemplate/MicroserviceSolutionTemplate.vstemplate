@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VSTemplate Version="3.0.0" Type="ProjectGroup" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:sdk="http://schemas.microsoft.com/developer/vstemplate-sdkextension/2010">
+  <TemplateData>
+    <Name>Unik Bolig Microservice - .Net 6</Name>
+    <Description>Solution contains basic folder structure and setup for microservice projects.</Description>
+    <Icon>MicroserviceSolutionTemplate.ico</Icon>
+    <ProjectType>CSharp</ProjectType>
+    <LanguageTag>csharp</LanguageTag>
+	<ProjectTypeTag>Microservice</ProjectTypeTag>
+	<ProjectTypeTag>dotnet6</ProjectTypeTag>
+	  <ProjectTypeTag>Unik</ProjectTypeTag>
+    <SortOrder>1000</SortOrder>
+    <TemplateID>3b338be3-ea75-45ce-90ff-40fbc442c506</TemplateID>
+    <CreateNewFolder>false</CreateNewFolder>
+    <DefaultName>MicroserviceSolutionTemplate</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+  </TemplateData>
+  <TemplateContent>
+	  <ProjectCollection>
+		  <ProjectTemplateLink ProjectName="$safeprojectname$.API" CopyParameters="true">
+			  Project Templates\Unik.Product.Area.SubArea.API\MyTemplate.vstemplate
+		  </ProjectTemplateLink>
+		  <ProjectTemplateLink ProjectName="$safeprojectname$.Domain" CopyParameters="true">
+			  Project Templates\Unik.Product.Area.SubArea.Domain\MyTemplate.vstemplate
+		  </ProjectTemplateLink>
+		  <ProjectTemplateLink ProjectName="$safeprojectname$.Infrastructure" CopyParameters="true">
+			  Project Templates\Unik.Product.Area.SubArea.Infrastructure\MyTemplate.vstemplate
+		  </ProjectTemplateLink>
+		  <SolutionFolder Name="Tests" CreateOnDisk="true">
+			  <ProjectTemplateLink ProjectName="$safeprojectname$.IntegrationTest" CopyParameters="true">
+				  Project Templates\Tests\Unik.Product.Area.SubArea.IntegrationTest\MyTemplate.vstemplate
+			  </ProjectTemplateLink>
+			  <ProjectTemplateLink ProjectName="$safeprojectname$.UnitTest" CopyParameters="true">
+				  Project Templates\Tests\Unik.Product.Area.SubArea.UnitTest\MyTemplate.vstemplate
+			  </ProjectTemplateLink>
+		  </SolutionFolder>
+	  </ProjectCollection>
+  </TemplateContent>
+</VSTemplate>

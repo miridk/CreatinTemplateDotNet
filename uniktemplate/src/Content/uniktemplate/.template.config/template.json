@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Michael Rinkovski",
+  "classifications": [ "WebApi" ],
+  "identity": "Unik.Template.Webapi.01",
+  "name": "Unik.Webapi.01",
+  "shortName": "unikapi01",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Test"
+}

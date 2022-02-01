@@ -1,0 +1,31 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Unik.Product.Area.SubArea.Domain</Name>
+    <Description>&lt;No description available&gt;</Description>
+    <ProjectType>CSharp</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Unik.Product.Area.SubArea.Domain</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <CreateInPlace>true</CreateInPlace>
+    <Icon>__TemplateIcon.ico</Icon>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Unik.Product.Area.SubArea.Domain.csproj" File="Unik.Product.Area.SubArea.Domain.csproj" ReplaceParameters="true">
+      <Folder Name="Models" TargetFolderName="Models">
+        <ProjectItem ReplaceParameters="true" TargetFileName="TestDomain.cs">TestDomain.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Repositories" TargetFolderName="Repositories">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ITestRepository.cs">ITestRepository.cs</ProjectItem>
+      </Folder>
+      <Folder Name="Services" TargetFolderName="Services">
+        <ProjectItem ReplaceParameters="true" TargetFileName="ITestService.cs">ITestService.cs</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="TestService.cs">TestService.cs</ProjectItem>
+      </Folder>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
