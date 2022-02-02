@@ -1,0 +1,12 @@
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\bin\Debug\net6.0\UnikWebApiTemplate.Domain.deps.json
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\bin\Debug\net6.0\UnikWebApiTemplate.Domain.dll
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\bin\Debug\net6.0\ref\UnikWebApiTemplate.Domain.dll
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\bin\Debug\net6.0\UnikWebApiTemplate.Domain.pdb
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.csproj.AssemblyReference.cache
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.AssemblyInfoInputs.cache
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.AssemblyInfo.cs
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.csproj.CoreCompileInputs.cache
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.dll
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\ref\UnikWebApiTemplate.Domain.dll
+C:\Udv\CreatinTemplateDotNet\UnikWebApiTemplate\src\Content\UnikWebApiTemplate.Domain\obj\Debug\net6.0\UnikWebApiTemplate.Domain.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{CA704C23-5467-436A-BBDA-3CDE1472C07E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnikWebApiTemplate.IntegrationTest", "Content\Tests\UnikWebApiTemplate.IntegrationTest\UnikWebApiTemplate.IntegrationTest.csproj", "{46CC4432-9DAC-4921-B40E-69249134D149}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnikWebApiTemplate.UnitTest", "Content\Tests\UnikWebApiTemplate.UnitTest\UnikWebApiTemplate.UnitTest.csproj", "{84D84945-DC7B-49FA-8CC5-6E15C64FAD31}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnikWebApiTemplate.API", "Content\UnikWebApiTemplate.API\UnikWebApiTemplate.API.csproj", "{6CDA90C9-27FF-41F5-AF4B-21307B564725}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnikWebApiTemplate.Domain", "Content\UnikWebApiTemplate.Domain\UnikWebApiTemplate.Domain.csproj", "{AF5707F9-BEEC-426F-B14C-1B06D5810D58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnikWebApiTemplate.Infrastructure", "Content\UnikWebApiTemplate.Infrastructure\UnikWebApiTemplate.Infrastructure.csproj", "{DC1E5B0F-B544-45F0-9B08-B1AF62D306B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46CC4432-9DAC-4921-B40E-69249134D149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46CC4432-9DAC-4921-B40E-69249134D149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46CC4432-9DAC-4921-B40E-69249134D149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46CC4432-9DAC-4921-B40E-69249134D149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D84945-DC7B-49FA-8CC5-6E15C64FAD31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D84945-DC7B-49FA-8CC5-6E15C64FAD31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D84945-DC7B-49FA-8CC5-6E15C64FAD31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D84945-DC7B-49FA-8CC5-6E15C64FAD31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDA90C9-27FF-41F5-AF4B-21307B564725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDA90C9-27FF-41F5-AF4B-21307B564725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDA90C9-27FF-41F5-AF4B-21307B564725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDA90C9-27FF-41F5-AF4B-21307B564725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5707F9-BEEC-426F-B14C-1B06D5810D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5707F9-BEEC-426F-B14C-1B06D5810D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5707F9-BEEC-426F-B14C-1B06D5810D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5707F9-BEEC-426F-B14C-1B06D5810D58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC1E5B0F-B544-45F0-9B08-B1AF62D306B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1E5B0F-B544-45F0-9B08-B1AF62D306B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1E5B0F-B544-45F0-9B08-B1AF62D306B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1E5B0F-B544-45F0-9B08-B1AF62D306B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{46CC4432-9DAC-4921-B40E-69249134D149} = {CA704C23-5467-436A-BBDA-3CDE1472C07E}
+		{84D84945-DC7B-49FA-8CC5-6E15C64FAD31} = {CA704C23-5467-436A-BBDA-3CDE1472C07E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E261060-6391-4BAA-8B79-3DD8ACAA93F3}
+	EndGlobalSection
+EndGlobal

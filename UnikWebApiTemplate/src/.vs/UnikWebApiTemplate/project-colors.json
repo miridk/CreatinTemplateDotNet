@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af5707f9-beec-426f-b14c-1b06d5810d58": {
+      "ProjectGuid": "af5707f9-beec-426f-b14c-1b06d5810d58",
+      "DisplayName": "UnikWebApiTemplate.Domain",
+      "ColorIndex": 0
+    },
+    "46cc4432-9dac-4921-b40e-69249134d149": {
+      "ProjectGuid": "46cc4432-9dac-4921-b40e-69249134d149",
+      "DisplayName": "UnikWebApiTemplate.IntegrationTest",
+      "ColorIndex": 1
+    },
+    "6cda90c9-27ff-41f5-af4b-21307b564725": {
+      "ProjectGuid": "6cda90c9-27ff-41f5-af4b-21307b564725",
+      "DisplayName": "UnikWebApiTemplate.API",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

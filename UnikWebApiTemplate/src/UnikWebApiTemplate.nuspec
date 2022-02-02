@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
-    <id>uniktemplate.webapi.dotnet.02</id>
-    <version>1.0.2</version>
+    <id>Unik.WebApi.Template</id>
+    <version>1.0.1</version>
     <description>
       Unik Template.
     </description>
