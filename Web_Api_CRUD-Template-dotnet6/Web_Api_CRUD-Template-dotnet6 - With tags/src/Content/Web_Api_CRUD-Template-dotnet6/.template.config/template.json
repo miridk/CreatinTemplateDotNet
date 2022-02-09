@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Michael Rinkovski",
+  "classifications": [ "Web Api" ],
+  "identity": "webapi.template.dotnet6.01",
+  "name": "webapi.template.dotnet6.01",
+  "shortName": "webapidotnet6",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template"
+}
