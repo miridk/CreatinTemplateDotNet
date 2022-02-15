@@ -44,10 +44,7 @@ namespace Web_Api_CRUD_Template_dotnet6.Controllers
             if (dbtemplate == null)
                 return BadRequest("Template not found!");
 
-            dbtemplate.Name = request.Name;
-            dbtemplate.FirstName = request.FirstName;
-            dbtemplate.LastName = request.LastName;
-            dbtemplate.Place = request.Place;
+            TAG_{'controllerPutModel'}
 
             await _context.SaveChangesAsync();
 
