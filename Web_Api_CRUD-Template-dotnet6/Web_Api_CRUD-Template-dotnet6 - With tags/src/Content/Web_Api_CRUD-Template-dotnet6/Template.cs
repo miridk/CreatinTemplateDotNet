@@ -1,4 +1,6 @@
-﻿namespace Web_Api_CRUD_Template_dotnet6
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Web_Api_CRUD_Template_dotnet6
 {
     public class Template
     {
