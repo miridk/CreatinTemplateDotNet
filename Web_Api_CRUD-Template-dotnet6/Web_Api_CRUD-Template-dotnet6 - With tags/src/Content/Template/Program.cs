@@ -1,4 +1,4 @@
-global using Web_Api_CRUD_Template_dotnet6.Data;
+global using Template.Data;
 global using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

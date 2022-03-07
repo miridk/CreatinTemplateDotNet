@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\Template.csproj": {}
+    "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\Template.csproj": {}
   },
   "projects": {
-    "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\Template.csproj": {
+    "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\Template.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\Template.csproj",
+        "projectUniqueName": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\Template.csproj",
         "projectName": "Template",
-        "projectPath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\Template.csproj",
+        "projectPath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\Template.csproj",
         "packagesPath": "C:\\Users\\Michael Rinkovski\\.nuget\\packages\\",
-        "outputPath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\obj\\",
+        "outputPath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

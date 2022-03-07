@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using Web_Api_CRUD_Template_dotnet6.Data;
+using Template.Data;
 
 #nullable disable
 
-namespace Web_Api_CRUD_Template_dotnet6.Migrations
+namespace Template.Migrations
 {
     [DbContext(typeof(DataContext))]
     [Migration("20220205223415_CreateInitial")]
@@ -23,7 +23,7 @@ namespace Web_Api_CRUD_Template_dotnet6.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
 
-            modelBuilder.Entity("Web_Api_CRUD_Template_dotnet6.Template", b =>
+            modelBuilder.Entity("Template.Template", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

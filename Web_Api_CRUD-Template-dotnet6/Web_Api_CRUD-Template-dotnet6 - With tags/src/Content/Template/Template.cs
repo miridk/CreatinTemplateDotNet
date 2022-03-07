@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Web_Api_CRUD_Template_dotnet6
+namespace Template
 {
     public class Template
     {

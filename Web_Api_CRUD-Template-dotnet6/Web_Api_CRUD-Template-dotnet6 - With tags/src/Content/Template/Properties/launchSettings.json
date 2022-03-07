@@ -9,7 +9,7 @@
     }
   },
   "profiles": {
-    "Web_Api_CRUD_Template_dotnet6": {
+    "Template": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

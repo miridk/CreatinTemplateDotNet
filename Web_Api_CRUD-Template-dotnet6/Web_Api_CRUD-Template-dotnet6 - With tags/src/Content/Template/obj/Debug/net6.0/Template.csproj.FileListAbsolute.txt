@@ -1,0 +1,7 @@
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.csproj.AssemblyReference.cache
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.AssemblyInfoInputs.cache
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.AssemblyInfo.cs
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.csproj.CoreCompileInputs.cache
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.MvcApplicationPartsAssemblyInfo.cs
+C:\udv\CreatinTemplateDotNet\Web_Api_CRUD-Template-dotnet6\Web_Api_CRUD-Template-dotnet6 - With tags\src\Content\Template\obj\Debug\net6.0\Template.MvcApplicationPartsAssemblyInfo.cache

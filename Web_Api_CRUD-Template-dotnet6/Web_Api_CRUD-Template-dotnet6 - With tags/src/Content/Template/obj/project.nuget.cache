@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZZLKRQ4bnT+6uPXWHyXJLHj4/mo6hoFLbCRSaY438ZYZG3Nw1jG6LKHRM57AkyrTIMVbpEGy5XcpFYRNwKq+yQ==",
+  "dgSpecHash": "3E9X4CWffs+JmPAmOTPvAKbuDlnIR9ootlL6bJm9wd6MBOt+EjUy++028qxP6DfdpncgGCYM518TOmQASU0grQ==",
   "success": true,
-  "projectFilePath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Web_Api_CRUD-Template-dotnet6\\Template.csproj",
+  "projectFilePath": "C:\\udv\\CreatinTemplateDotNet\\Web_Api_CRUD-Template-dotnet6\\Web_Api_CRUD-Template-dotnet6 - With tags\\src\\Content\\Template\\Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michael Rinkovski\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Michael Rinkovski\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
-namespace Web_Api_CRUD_Template_dotnet6.Controllers
+namespace Template.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

@@ -4,7 +4,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Web_Api_CRUD_Template_dotnet6</RootNamespace>
+    <RootNamespace>Template</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

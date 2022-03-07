@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace Web_Api_CRUD_Template_dotnet6.Migrations
+namespace Template.Migrations
 {
     public partial class CreateInitial : Migration
     {
