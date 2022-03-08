@@ -7,7 +7,7 @@ services:
       SA_PASSWORD: "#Admin123"
       ACCEPT_EULA: "Y"
     ports:
-      - "1433:1433"
+      - "1438:1433"
 
   template:
     image: ${DOCKER_REGISTRY-}template
@@ -17,6 +17,6 @@ services:
     environment:
       ConnectionStrings__DefaultConnection: "Server=db,1433;Initial Catalog=FinanceUnitDB;User ID=sa;password=#Admin123;MultipleActiveResultSets=true"
     ports:
-      - "4800:80"
+      - "14800:80"
     depends_on:
       - db
