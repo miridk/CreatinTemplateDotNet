@@ -9,8 +9,8 @@ services:
     ports:
       - "1433:1433"
 
-  Template:
-    image: ${DOCKER_REGISTRY-}Template
+  template:
+    image: ${DOCKER_REGISTRY-}template
     build:
       context: .
       dockerfile: Dockerfile
