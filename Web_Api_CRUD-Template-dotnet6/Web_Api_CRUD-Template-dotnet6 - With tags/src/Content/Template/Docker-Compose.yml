@@ -2,14 +2,21 @@ version: '3.4'
 
 services:
   db:
+    container_name: template_db
     image: "mcr.microsoft.com/mssql/server"
+    volumes:
+      - db-data:/var/opt/mssql
     environment:
       SA_PASSWORD: "#Admin123"
       ACCEPT_EULA: "Y"
     ports:
-      - "1438:1433"
+      - "1433:1433"
+      # networks:
+      # - your_network_name
+    restart: on-failure
 
   template:
+    container_name: template_api
     image: ${DOCKER_REGISTRY-}template
     build:
       context: .
@@ -18,5 +25,14 @@ services:
       ConnectionStrings__DefaultConnection: "Server=db,1433;Initial Catalog=FinanceUnitDB;User ID=sa;password=#Admin123;MultipleActiveResultSets=true"
     ports:
       - "14800:80"
+      # networks:
+      # - your_network_name
+    restart: on-failure
     depends_on:
       - db
+
+volumes:
+  db-data:
+
+    # networks:
+    # your_network_name:
