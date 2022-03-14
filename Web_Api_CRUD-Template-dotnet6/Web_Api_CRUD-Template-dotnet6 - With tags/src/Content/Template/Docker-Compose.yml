@@ -24,7 +24,7 @@ services:
     environment:
       ConnectionStrings__DefaultConnection: "Server=db,1433;Initial Catalog=FinanceUnitDB;User ID=sa;password=#Admin123;MultipleActiveResultSets=true"
     ports:
-      - "14800:80"
+      - "TAG_{'PortNumber'}:80"
       # networks:
       # - your_network_name
     restart: on-failure
