@@ -1,0 +1,6 @@
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+COPY /publish/Template.API/ app/
+EXPOSE 80
+EXPOSE 443
+WORKDIR /app
+ENTRYPOINT ["dotnet", "/app/Template.API.dll"]

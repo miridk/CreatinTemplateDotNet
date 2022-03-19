@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Michael Rinkovski",
+  "classifications": [ "Web Api" ],
+  "identity": "Unik.Bolig.Finance.Template",
+  "name": "Unik.Bolig.Finance.Template",
+  "shortName": "Unik.Bolig.Finance.Template",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template"
+}

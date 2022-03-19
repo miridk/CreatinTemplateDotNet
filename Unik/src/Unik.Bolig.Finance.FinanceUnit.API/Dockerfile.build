@@ -1,0 +1,6 @@
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
+COPY /publish/Unik.Bolig.Finance.FinanceUnit.API/ app/
+EXPOSE 80
+EXPOSE 443
+WORKDIR /app
+ENTRYPOINT ["dotnet", "/app/Unik.Bolig.Finance.FinanceUnit.API.dll"]
